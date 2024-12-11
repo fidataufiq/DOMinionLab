@@ -14,7 +14,7 @@ Menjadi portofolio karya yang menunjukkan keahlian dalam front-end development.
 ## 📝 Lisensi  
 Repository ini dilindungi oleh lisensi [MIT](https://opensource.org/licenses/MIT). Kamu bebas menggunakan, memodifikasi, dan membagikan kode ini dengan menyertakan atribusi kepada pembuatnya.  
 
-## 📬 Hubungi Kami  
+## 📬 Hubungi 
 Jika kamu memiliki pertanyaan atau ide kolaborasi, jangan ragu untuk menghubungi melalui email: **[fidataufiqimazuddin@gmail.com](mailto:fidataufiqimazuddin@gmail.com)**.  
 
 ---
